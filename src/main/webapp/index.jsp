@@ -5,7 +5,9 @@
 <body>
 <b>Welcome to DevOps Lab!</b>
 <form action="HelloWorldServlet" method="get">
-    Enter your name: <input type="text" name="name" size="24">
+    Enter your Name: <input type="text" name="name" size="24">
+    Enter your College name: <input type="text" name="name" size="24">
+    Enter your Department name: <input type="text" name="name" size="24"><br>
     <input type="submit" value="Submit" />
 </form>
 </body>
