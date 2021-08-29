@@ -3,12 +3,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <body>
-<b>Welcome to DevOps Lab!</b>
+<b>Welcome to the College suervey!</b>
 <form action="HelloWorldServlet" method="get">
-    Enter your Name: <input type="text" name="name" size="24">
-    Enter your College name: <input type="text" name="name" size="24">
-    Enter your Department name: <input type="text" name="name" size="24"><br>
-    <input type="submit" value="Submit" />
+    Enter your College Name: <input type="text" name="name" size="24"><br><br>
+    Enter your Name: <input type="text" name="name" size="24"><br><br>
+    Enter your Department name: <input type="text" name="name" size="24"><br><br>
+     <input type="submit" value="Submit" />
 </form>
 </body>
 </html>
